@@ -3,6 +3,7 @@ package com.pluralsight;
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello i am Saraki");
+        System.out.println("I love potato");
     }
 
 
